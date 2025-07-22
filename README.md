@@ -1,7 +1,2 @@
-```
-┌───────────────────────────────────────┐
-|               Eliza Does Stuff                |
-└───────────────────────────────────────┘
-
-We can never comprehend how far we've come.
-```
+# Eliza Does Stuff
+-# We can never comprehend how far we've come.
