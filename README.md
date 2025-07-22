@@ -1,7 +1,7 @@
 # Eliza Does Stuff
 *We can never comprehend how far we've come.*
 
-Hii, I'm **Eliza** (she/her). In case you couldn't tell, I do stuff. I am currently a sophomore in high school.
+Hi!! I'm **Eliza** (she/her). In case you couldn't tell, I do stuff. I am currently a sophomore in high school.
 My current projects include:
 
 * Games for Potatos, a set of simple single-player and local multiplayer games designed to run in the terminal to maximize speed and battery efficiency
